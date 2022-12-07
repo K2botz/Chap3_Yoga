@@ -18,7 +18,7 @@ text-align: center;
 nav a { text-decoration: none; } .studio{font-style: italic; }
 footer {
 background-color: #80CBC4;
-font-size: 60em;
+font-size: .60em;
 font-style: italic;
 text-align: center;
 }
